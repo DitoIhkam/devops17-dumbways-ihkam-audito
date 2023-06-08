@@ -10,4 +10,4 @@ file   : untuk mengintip isi dari suatu file
 ## Perbedaan Bash dengan Shell
 
 Shell   : Tempat/wadah untuk melakukan eksekusi perintah
-bash    : bahasa yang digunakan untuk melakukan eksekusi perintah (
+Bash    : bahasa yang digunakan untuk melakukan eksekusi perintah (
