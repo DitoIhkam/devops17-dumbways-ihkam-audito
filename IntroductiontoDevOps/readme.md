@@ -1,8 +1,8 @@
-# Definisi DevOps
+# 1. Definisi DevOps
 
 DevOps adalah kepanjangan dari Developer Operations, yang pekerjaan nya menghubungkan antara pengembang software (Developer) dengan IT Operation yang nantinya akan mengoperasikan aplikasi/software hingga sampai ke end-user/consumer. DevOps diperlukan agar bisa mempersingkat waktu mulai dari pengembangan software/aplikasi, hingga nanti nya bisa sampai ke end-user.
 
-# LifeCycle DevOps
+# 2. LifeCycle DevOps
  
 
 ## Continuous Development
