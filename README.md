@@ -1,1 +1,1 @@
-# devops17-dumbways-ihkam-audito
+# Catatan Pelatihan DumbWays/minggu
