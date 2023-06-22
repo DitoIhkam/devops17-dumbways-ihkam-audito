@@ -14,3 +14,11 @@ Ketika perangkat terhubung ke jaringan, diberikan alamat IP yang sama setiap kal
 
 * Alamat IP dinamis adalah alamat IP yang dapat berubah saat perangkat terhubung ke jaringan.
 * Setiap kali perangkat terhubung, alamat IP yang tersedia di jaringan diberikan secara dinamis kepada perangkat.
+
+
+## Berikut rancangan untuk spesifikasi berikut.
+- CIDR Block : 192.168.1.xxx/24
+- Subnet : 255.255.255.0
+- Gateway : 192.168.1.1
+
+![image.png]( {https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/ComputerNetworkingg/DIAGRAM.png} )
