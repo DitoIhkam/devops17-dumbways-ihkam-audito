@@ -21,5 +21,5 @@ Ketika perangkat terhubung ke jaringan, diberikan alamat IP yang sama setiap kal
 - Subnet : 255.255.255.0
 - Gateway : 192.168.1.1
 
-![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/ComputerNetworkingg/DIAGRAM.png?raw=true)
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/2.%20ComputerNetworkingg/DIAGRAM.png?raw=true)
 A
