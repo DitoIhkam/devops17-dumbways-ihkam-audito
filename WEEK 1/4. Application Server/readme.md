@@ -34,4 +34,4 @@ Dalam mendeploy aplikasi wayshub-frontend, disini saya akan mengacu pada website
 1. Buat folder direktori dengan menggunakan perintah mkdir (nama folder). Dalam contoh disini saya menggunakan perintah mkdir golang, untuk membuat folder yang bernama golang.
 ![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/GO1.png?raw=true)
 
-2. Kita pindah ke direktori yang sudah kita buat menggunakan perintah cd golang, lalu kita install golang dengan perintah berikut 'rm -rf /usr/local/go && tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz && exit'
+2. Kita pindah ke direktori yang sudah kita buat menggunakan perintah cd golang, lalu kita install golang dengan perintah berikut `rm -rf /usr/local/go && tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz && exit`
