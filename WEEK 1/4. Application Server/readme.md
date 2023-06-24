@@ -14,4 +14,17 @@
 
 Dalam mendeploy aplikasi wayshub-frontend, disini saya akan mengacu pada website https://github.com/dumbwaysdev/wayshub-frontend. Berikut untuk langkah-langkah nya 
 
-# A
+1. Buat folder direktori dengan menggunakan perintah mkdir (nama folder). Dalam contoh disini saya menggunakan perintah mkdir wayshub, untuk membuat folder yang bernama wayshub.
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/1.png?raw=true)
+
+2. Pindah ke dalam file direktori yang sudah kita buat dengan perintah cd (nama folder). Dalam hal ini saya menggunakan perintah cd wayshub.
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/2.png?raw=true)
+
+3. Duplikat repositori wayshub-frontend di github kedalam server kita dengan menggunakan perintah git clone (nama website). Dalam hal ini saya mengganakan perintah git clone https://github.com/dumbwaysdev/wayshub-frontend
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/3.png?raw=true)
+
+5. Kita perlu mengintall npm didalam folder ini, untuk memunculkan node modules yang kita perlukan untuk menjalankan wesbite node.js. caranya ketik perintah npm install. Berikut untuk prosesnya.
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/4.png?raw=true)
+
+6. Yang terakhir, kita jalankan repositorinya dengan cara ketik npm start. Setelah dijalankan, buka browser dan ketikan ip ubuntu server ke dalam browser. Maka akan muncul website wayshub-frontend yang sudah kita duplikat tadi.
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/Screenshot%20(186).png?raw=true)
