@@ -28,3 +28,7 @@ Dalam mendeploy aplikasi wayshub-frontend, disini saya akan mengacu pada website
 
 6. Yang terakhir, kita jalankan repositorinya dengan cara ketik npm start. Setelah dijalankan, buka browser dan ketikan ip ubuntu server ke dalam browser. Maka akan muncul website wayshub-frontend yang sudah kita duplikat tadi.
 ![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/Screenshot%20(186).png?raw=true)
+
+# 2. Deploy Golang dengan nama sendiri
+
+1. 1. Buat folder direktori dengan menggunakan perintah mkdir (nama folder). Dalam contoh disini saya menggunakan perintah mkdir golang, untuk membuat folder yang bernama golang.
