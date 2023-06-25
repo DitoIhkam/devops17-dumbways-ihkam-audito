@@ -36,7 +36,7 @@ Contoh nya yaitu Git yang bisa melakukan perubahan dengan push and pull.
 ![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%202/1.%20Version%20Control%20System/gambar/16.png?raw=true)
 
 
-# 4. 3 Command Git yang belum dijelaskan
+# 4. Tiga Command Git yang belum dijelaskan
 git tag: Menandai titik tertentu dalam sejarah commit dengan tag.
 
 git reset: Mengatur ulang HEAD dan mencabut perubahan dari staging area atau commit tertentu.
