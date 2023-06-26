@@ -10,6 +10,7 @@
 * Pemeliharaan, pengujian, dan penyebaran perubahan pada aplikasi microservice dapat lebih mudah dan cepat karena perubahan hanya mempengaruhi layanan yang terkait.
 * Namun, pengelolaan dan pemantauan lingkungan distribusi dapat menjadi lebih kompleks dalam arsitektur microservice.
 
+
 # 2. Deploy Aplikasi wayshub-frontend (NodeJS)
 
 Dalam mendeploy aplikasi wayshub-frontend, disini saya akan mengacu pada website https://github.com/dumbwaysdev/wayshub-frontend. Berikut untuk langkah-langkah nya 
@@ -29,7 +30,8 @@ Dalam mendeploy aplikasi wayshub-frontend, disini saya akan mengacu pada website
 6. Yang terakhir, kita jalankan repositorinya dengan cara ketik npm start. Setelah dijalankan, buka browser dan ketikan ip ubuntu server ke dalam browser. Maka akan muncul website wayshub-frontend yang sudah kita duplikat tadi.
 ![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/Screenshot%20(186).png?raw=true)
 
-# 2. Deploy Golang dengan nama sendiri
+
+# 3. Deploy Golang dengan nama sendiri
 
 1. Buat folder direktori dengan menggunakan perintah mkdir (nama folder). Dalam contoh disini saya menggunakan perintah mkdir golang, untuk membuat folder yang bernama golang.
 ![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/GO1.png?raw=true)
@@ -51,3 +53,21 @@ Dalam mendeploy aplikasi wayshub-frontend, disini saya akan mengacu pada website
 
 7. Maka akan tampil hasil seperti dibawah ini nama saya.
 ![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/las.png?raw=true)
+
+
+# 4. Deploy Python Flask nama sendiri
+
+1. Buat folder dengan perintah `mkdir pyproject`. Disini saya membuat folder dengan nama pyproject.
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/PY1.png?raw=true)
+
+2. Pindah ke direktori yang telah kita buat dengan perintah `cd pyproject` dan cek python apakah sudah ada atau belum dengan mengetik `python3 -V`
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/PY2.png?raw=true)
+
+3. Kita perlu menginstall PIP atau python install packages untuk bisa menginstall flask. Ketik perintah `sudo apt install python3-pip`. Setelah selesai kita bisa menginstall flask dengan perintah `sudo pip3 install flask`.
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/PY3.png?raw=true)
+
+4. Ketiikan `nano index.py` untuk membuat serta mengedit file bernama index.py. edit seperti gambar dibawah ini.
+https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/PY44.png
+
+5. Terakhir, jalankan filenya dengan perintah `python3 index.py`
+![alt text](https://github.com/DitoIhkam/devops17-dumbways-ihkam-audito/blob/main/WEEK%201/4.%20Application%20Server/PY5.png?raw=true)
